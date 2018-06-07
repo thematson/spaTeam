@@ -1,0 +1,22 @@
+{
+  "name": "custom-login",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "serve -p 3000"
+  },
+  "author": "Auth0",
+  "license": "MIT",
+  "dependencies": {
+    "auth0-js": "^9.0.0",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.6.5"
+  },
+  "devDependencies": {
+    "serve": "^6.0.0"
+  }
+}
